@@ -1,5 +1,5 @@
 body {
-    background: url(../img/bg_d.jpg);
+    background: url(http://thesketch.me/img/bg_d.jpg);
 }
 .wrapper img {
     top: 0;
@@ -12,7 +12,7 @@ body {
     padding: 26px 28px;
     padding: 2% 2%;
     box-shadow: 0 5px 20px 5px rgba(0,0,0,0.6);
-    background: url(../img/border_txr.jpg);
+    background: url(http://thesketch.me/img/border_txr.jpg);
 }
 
 /*@media (max-width: 600px) {
