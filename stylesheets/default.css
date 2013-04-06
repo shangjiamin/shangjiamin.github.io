@@ -1,0 +1,20 @@
+body {
+    background: url(../img/bg_d.jpg);
+}
+.wrapper img {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0; 
+    position: absolute;
+    margin: auto;
+    width: 50%;
+    padding: 26px 28px;
+    padding: 2% 2%;
+    box-shadow: 0 5px 20px 5px rgba(0,0,0,0.6);
+    background: url(../img/border_txr.jpg);
+}
+
+/*@media (max-width: 600px) {
+    
+}*/
